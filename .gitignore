@@ -1,6 +1,5 @@
-kis.o
-*.[oz]
-!new.z
-?m
-?is.?
-/sub
+# kis.o general ignoring a file 
+# *.[oz] ignoring files of type o or z
+# !new.z but not ignoring file new.z
+# ?is.? ignoring files with name _is._
+# /sub ignoring the sub folder
