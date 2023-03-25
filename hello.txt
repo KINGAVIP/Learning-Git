@@ -1,0 +1,4 @@
+hello how are you 
+
+This is a new world
+I am here to learn all about git
