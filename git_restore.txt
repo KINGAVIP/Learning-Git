@@ -1,0 +1,6 @@
+git restore filename : is a combination of both git reset and git checkout
+
+it can unstage as well as unmodify
+
+git restore filename- will make the data unmodified (like checkout)
+git restore --stage filename - makes the file unstaged (like git reset head)
