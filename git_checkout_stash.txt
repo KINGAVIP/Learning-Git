@@ -1,0 +1,10 @@
+git checkout -- file:basically removes all modifications and take it back to the prvious commit
+                  changes done cannot be reverted
+
+git stash - basically removes modifications and put them into stack data structure
+we can retrieve data using
+
+git stash pop
+
+
+to clear the stash- git stash clear
