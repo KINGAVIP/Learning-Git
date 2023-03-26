@@ -1,0 +1,4 @@
+git commit --amend: is used to put the changes made into the previous commit only and not creating a new commit
+ 
+ using i : we can change the commit message to
+ :wq is used for write and quit
