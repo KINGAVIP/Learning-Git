@@ -1,0 +1,5 @@
+git rm file_name :to remove a file from the github
+
+git rm -f file:if a file is modified but not commited(unstaged) and we wanted to remove it then to remove it forcely we use it
+
+git rm --cached file: a file is added but not commited(tracked but not committed) , to untrack it we use this..
