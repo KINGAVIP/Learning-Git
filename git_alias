@@ -1,0 +1,12 @@
+git config --global alias.new_name 'old_name'
+-basically gives an alias name to the command
+
+eg: 
+git config --global alias.stage 'add'
+git config --global alias.save 'commit'
+git config --global alias.back 'reset HEAD'
+
+now simply use
+git stage hello.txt
+git save -m"kuch bhi"
+git back filename
