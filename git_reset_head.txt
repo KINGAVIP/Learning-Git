@@ -1,0 +1,1 @@
+git reset HEAD file_name :: basicallu unstage a file(that is remove from add) 
