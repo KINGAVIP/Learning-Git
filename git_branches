@@ -1,0 +1,11 @@
+git branches- basically it is used so to make the changes not in live project but in another branch and when the updates are successful 
+we can simply merge them
+
+how it works-
+
+git commit :changes in main branch
+git branch foo :created a new branch foo
+git checkout foo :now will be making changes in foo branch (main live code not effected)
+git commit -(in foo)
+git checkout main(to get back to mai)
+git merge foo (Now will integrate the changes) 
